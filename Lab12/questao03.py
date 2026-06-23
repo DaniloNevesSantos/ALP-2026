@@ -1,0 +1,7 @@
+N = input("Digite um número: ")
+y = int(N)
+z = float(N)
+w = bool(N)
+print(y)
+print(z)
+print(w)
